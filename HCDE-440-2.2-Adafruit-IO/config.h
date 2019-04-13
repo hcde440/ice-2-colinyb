@@ -2,8 +2,8 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME    "thatbrock"
-#define IO_KEY         "YOUR API KEY HERE!"
+#define IO_USERNAME   "crysis"
+#define IO_KEY        "f64f7594037b4ffeb4e1716527fa5114"
 
 /******************************* WIFI **************************************/
 
@@ -13,8 +13,8 @@
 //   - Feather M0 WiFi -> https://www.adafruit.com/products/3010
 //   - Feather WICED -> https://www.adafruit.com/products/3056
 
-#define WIFI_SSID       "CenturyLink0502"
-#define WIFI_PASS       "121212121224G"
+#define WIFI_SSID       "CYB"
+#define WIFI_PASS       "m1ck3yM0us3"
 //#define WIFI_SSID       "Badger's new Phone"
 //#define WIFI_PASS       "12121212"
 //#define WIFI_SSID       "University of Washington"
