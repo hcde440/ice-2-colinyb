@@ -14,7 +14,7 @@
 //   - Feather WICED -> https://www.adafruit.com/products/3056
 
 #define WIFI_SSID       "CYB"
-#define WIFI_PASS       "m1ck3yM0us3"
+#define WIFI_PASS       ""
 //#define WIFI_SSID       "Badger's new Phone"
 //#define WIFI_PASS       "12121212"
 //#define WIFI_SSID       "University of Washington"
